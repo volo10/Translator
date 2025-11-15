@@ -55,6 +55,9 @@ $(cat "$SKILLS_DIR/english_spanish_skills/grammatical_syntactic_awareness.md")
 SKILL 5: Cultural Competence
 $(cat "$SKILLS_DIR/english_spanish_skills/cultural_pragmatic_competence.md")
 ---
+SKILL 6: Natural Phrasing Preservation (CRITICAL FOR ROUND-TRIP)
+$(cat "$SKILLS_DIR/english_spanish_skills/natural_phrasing_preservation.md")
+---
 
 TASK: Translate this English sentence to Spanish using Accuracy mode.
 
@@ -100,6 +103,9 @@ $(cat "$SKILLS_DIR/spanish_hebrew_skills/spanish_hebrew_grammatical.md")
 SKILL 5: Cultural Competence
 $(cat "$SKILLS_DIR/spanish_hebrew_skills/spanish_hebrew_cultural.md")
 ---
+SKILL 6: Natural Phrasing Preservation (CRITICAL FOR ROUND-TRIP)
+$(cat "$SKILLS_DIR/spanish_hebrew_skills/spanish_hebrew_natural_phrasing.md")
+---
 
 TASK: Translate this Spanish sentence to Hebrew using Accuracy mode.
 
@@ -144,6 +150,9 @@ $(cat "$SKILLS_DIR/hebrew_english_skills/hebrew_english_grammatical.md")
 ---
 SKILL 5: Cultural Competence
 $(cat "$SKILLS_DIR/hebrew_english_skills/hebrew_english_cultural.md")
+---
+SKILL 6: Natural Phrasing Preservation (CRITICAL FOR ROUND-TRIP)
+$(cat "$SKILLS_DIR/hebrew_english_skills/hebrew_english_natural_phrasing.md")
 ---
 
 TASK: Translate this Hebrew sentence to English using Accuracy mode.

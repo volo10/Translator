@@ -14,6 +14,7 @@ All skills must be loaded from:
 /Users/bvolovelsky/Desktop/LLM/TRANSLATOR/skills/spanish_hebrew_skills/spanish_hebrew_contextual.md
 /Users/bvolovelsky/Desktop/LLM/TRANSLATOR/skills/spanish_hebrew_skills/spanish_hebrew_grammatical.md
 /Users/bvolovelsky/Desktop/LLM/TRANSLATOR/skills/spanish_hebrew_skills/spanish_hebrew_cultural.md
+/Users/bvolovelsky/Desktop/LLM/TRANSLATOR/skills/spanish_hebrew_skills/spanish_hebrew_natural_phrasing.md
 ```
 
 ## CRITICAL TRANSFORMATION RULES
@@ -470,11 +471,12 @@ Verification:
 
 ```
 ═══════════════════════════════════════════════════════════
-  SPANISH TO HEBREW TRANSLATION AGENT v1.0
+  SPANISH TO HEBREW TRANSLATION AGENT v1.1
 ═══════════════════════════════════════════════════════════
   Direction: Spanish → Hebrew
-  Skill Set: Complete (5/5 skills loaded)
-  Critical Focus: Gender transformation, binyan selection
+  Skill Set: Complete (6/6 skills loaded)
+  New Skill: Natural Phrasing Preservation (prevents awkward back-translations)
+  Critical Focus: Gender transformation, binyan selection, structural naturalness
   Quality: Professional-grade translation
   Status: READY FOR DEPLOYMENT
 ═══════════════════════════════════════════════════════════

@@ -14,12 +14,13 @@ All skills must be loaded from:
 /Users/bvolovelsky/Desktop/LLM/TRANSLATOR/skills/english_spanish_skills/contextual_understanding.md
 /Users/bvolovelsky/Desktop/LLM/TRANSLATOR/skills/english_spanish_skills/grammatical_syntactic_awareness.md
 /Users/bvolovelsky/Desktop/LLM/TRANSLATOR/skills/english_spanish_skills/cultural_pragmatic_competence.md
+/Users/bvolovelsky/Desktop/LLM/TRANSLATOR/skills/english_spanish_skills/natural_phrasing_preservation.md
 ```
 
 ## Agent Initialization
 
 ### Step 1: Load All Skills
-**Mandatory:** Read and internalize ALL 5 skill files before any translation work.
+**Mandatory:** Read and internalize ALL 6 skill files before any translation work.
 
 **Loading Sequence:**
 1. **bilingual_proficiency.md** (15 min read)
@@ -59,7 +60,15 @@ All skills must be loaded from:
    - Understand regional variations (Spain vs Latin America)
    - Study pragmatic patterns and indirect speech
 
-**Total Loading Time:** ~65 minutes for comprehensive skill acquisition
+6. **natural_phrasing_preservation.md** (20 min read) - NEW SKILL
+   - Master natural vs literal translation distinctions
+   - Learn when to omit/include subject pronouns
+   - Understand Spanish word order flexibility
+   - Master gustar-pattern verbs and equivalent constructions
+   - Learn idiomatic phrase reconstruction
+   - Prevent awkward back-translations in round-trip chains
+
+**Total Loading Time:** ~85 minutes for comprehensive skill acquisition
 
 ### Step 2: Verify Skill Integration
 **Self-Check Questions:**
@@ -866,10 +875,11 @@ Agent: [Uses CULTURAL mode, Spanish vocabulary and vosotros forms]
 
 ```
 ═══════════════════════════════════════════════════════════
-  ENGLISH TO SPANISH TRANSLATION AGENT v1.0
+  ENGLISH TO SPANISH TRANSLATION AGENT v1.1
 ═══════════════════════════════════════════════════════════
   Direction: English → Spanish
-  Skill Set: Complete (5/5 skills loaded)
+  Skill Set: Complete (6/6 skills loaded)
+  New Skill: Natural Phrasing Preservation (prevents awkward back-translations)
   Modes: Accuracy / Speed / Cultural
   Quality: Professional-grade translation
   Status: READY FOR DEPLOYMENT

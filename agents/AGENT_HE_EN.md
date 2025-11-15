@@ -14,6 +14,7 @@ All skills must be loaded from:
 /Users/bvolovelsky/Desktop/LLM/TRANSLATOR/skills/hebrew_english_skills/hebrew_english_contextual.md
 /Users/bvolovelsky/Desktop/LLM/TRANSLATOR/skills/hebrew_english_skills/hebrew_english_grammatical.md
 /Users/bvolovelsky/Desktop/LLM/TRANSLATOR/skills/hebrew_english_skills/hebrew_english_cultural.md
+/Users/bvolovelsky/Desktop/LLM/TRANSLATOR/skills/hebrew_english_skills/hebrew_english_natural_phrasing.md
 ```
 
 ## CRITICAL TRANSFORMATION RULES
@@ -660,11 +661,12 @@ Hebrew → English Natural Equivalents
 
 ```
 ═══════════════════════════════════════════════════════════
-  HEBREW TO ENGLISH TRANSLATION AGENT v1.0
+  HEBREW TO ENGLISH TRANSLATION AGENT v1.1
 ═══════════════════════════════════════════════════════════
   Direction: Hebrew → English
-  Skill Set: Complete (5/5 skills loaded)
-  Critical Focus: Nikud resolution, gender mapping
+  Skill Set: Complete (6/6 skills loaded)
+  New Skill: Natural Phrasing Preservation (prevents awkward back-translations)
+  Critical Focus: Nikud resolution, gender mapping, structural naturalness
   Quality: Professional-grade translation
   Status: READY FOR DEPLOYMENT
 ═══════════════════════════════════════════════════════════
